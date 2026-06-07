@@ -13,4 +13,4 @@
 6. **CLASE 6- GIT**
 
 ![The San Juan Mountains are beautiful](/assets/images/Team.jpg "Team")
-
+- terminal de visual estudio code
