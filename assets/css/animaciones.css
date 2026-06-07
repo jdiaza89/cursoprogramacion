@@ -1,0 +1,52 @@
+.box{
+    color: aqua;
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+    animation: box;
+    animation-duration: 400ms;
+    position: relative;
+}
+/*
+@keyframes box {
+   from{
+        background-color: #FF0000;
+    }
+   to{
+        background-color: #008000;
+    }
+
+} */
+
+@keyframes box {
+   0%{
+        background-color:black;
+        color: azure;
+        left: 0px; top: 0px;
+    }
+   25%{
+        background-color:blue;
+        color: azure;
+        left: 600px;
+        top: 0px;
+    }
+
+    50%{
+        background-color: blueviolet;
+        color: azure;
+        left: 600px; top: 600px;
+    }
+    75%{
+        background-color:aqua;
+        color: blue;
+        left: 0px;
+        top: 600px;
+    }
+    100%{
+        background-color:brown;
+        color: azure;
+        left: 0px; top: 0px;
+    }
+
+
+} 

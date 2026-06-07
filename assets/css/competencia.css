@@ -1,0 +1,63 @@
+.car-1{
+    color: blue;
+    position: relative;
+    animation-name: car-1;
+    animation-duration: 5s;
+}
+@keyframes car-1 {
+    from{
+        left: 0px; top: 0px;
+    }
+    to{
+        left: 600px; top: 0px;
+    }
+
+}
+
+.car-2{
+    color:aqua;
+    position: relative;
+    animation-name: car-2;
+    animation-duration: 5s;
+}
+@keyframes car-2 {
+    from{
+        left: 0px; top: 0px;
+    }
+    to{
+        left: 800px; top: 0px;
+    }
+
+}
+
+.car-3{
+    color: blueviolet;
+    position: relative;
+    animation-name: car-3;
+    animation-duration: 5s;
+}
+@keyframes car-3 {
+    from{
+        left: 0px; top: 0px;
+    }
+    to{
+        left: 600px; top: 0px;
+    }
+
+}
+
+.car-4{
+    color: #ff0000;
+    position: relative;
+    animation-name: car-4;
+    animation-duration: 5s;
+}
+@keyframes car-4 {
+    from{
+        left: 0px; top: 0px;
+    }
+    to{
+        left: 600px; top: 0px;
+    }
+
+}

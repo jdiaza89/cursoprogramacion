@@ -1,0 +1,48 @@
+body {
+ background-color: aquamarine;
+}
+h1 {
+    color: blue;
+    font-size: 48px;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+}
+.subtitle {
+    color: red;
+    font-size: 32px;
+    font-size: 600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#lista {
+    color: green;
+
+}
+
+a{
+    color: red;
+    font-size: 36px;
+    text-decoration: none; /* para quitar el subrayado*/
+
+}
+
+a:hover{
+    color: yellow;
+}
+.img{
+    width: 800px;
+    border: 5px dashed yellow;
+
+}
+
+.box{
+    width: 600px;
+    height: 400px;
+    background-color: blue;
+    color: white;
+    border: 2px solid green;
+    padding: 80px  30px; /* cuando modifico arriba y abajo quiero que sean igual en este caso 80 y de izquierda a derecha 30*/
+   /* padding: 50px; /* asi i yo quiero que los 4 lados ean iguales */
+    margin: 50px;
+}
