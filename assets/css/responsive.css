@@ -1,0 +1,29 @@
+@media screen and (max-width: 6000px){
+.quienes_somos {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+}
+.servicios{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    gap: 20px;
+    padding-left: 5%;
+}
+
+.footer {
+  
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+
+.galeria {
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.img-fluid {
+    width: 100%;
+    height: auto;
+}
+}
