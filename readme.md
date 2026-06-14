@@ -9,7 +9,7 @@
     Hojas de Estilo
 3. **CLASE 3** Quienes Somos- Servicios
 4. **CLASE 4 -REPASO**
-5. **CLASE 5- FOOTER CONTACTO**
+5. **CLASE 5- ANIMACIONES**
 6. **CLASE 6- GIT**
 
 ![The San Juan Mountains are beautiful](/assets/images/Team.jpg "Team")
